@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KizzaGeorgeMbidde
 - 👀 I’m interested in projects in C++ and C.
-- 🌱 I’m currently learning PostgreSQL loadbale C functions.
-- 💞️ I’m looking to collaborate on blockchain, finance and database projects.
+- 🌱 I’m currently learning PostgreSQL loadable C functions.
+- 💞️ I’m looking to collaborate on blockchain, fintech, DeFi, and database projects.
 - 📫 How to reach me: kizza.mbidde@gmail.com
 
 <!---
